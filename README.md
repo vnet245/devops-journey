@@ -4,3 +4,6 @@
 4th 10 days: 119-135 (16 videos) python   
 5th 15 days: 136-148 (13 videos) aiops    
 6th 15 days: 149-158 (15 videos) observility grafana   
+
+
+(https://www.youtube.com/watch?v=jRqBIpcgO4g)
