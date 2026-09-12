@@ -10,4 +10,4 @@ Why DevOps?
 
 
 How to introduce yourself for the position?
-What are your day-to-day activities as devops egineer?
+What are your day-to-day activities as devops engineer?
