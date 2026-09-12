@@ -6,6 +6,6 @@ orgnisations uses devops delivers new features and updates or delivers software 
 > "devops is a process of improving the application delivery by ensuring there is a proper automation with a code quality that is maintained or with the application quality that is maintained and ensuring there is a continuous monitoring and continuous testing in place "
 
 
-Why DevOps?
-How to introduce yourself for the position?
-What are your day-to-day activities as devops engineer?
+Why DevOps?  
+How to introduce yourself for the position?  
+What are your day-to-day activities as devops engineer?  
