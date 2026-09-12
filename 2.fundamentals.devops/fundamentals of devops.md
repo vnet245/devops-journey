@@ -1,5 +1,5 @@
 What is DevOps?
-Culture or practice followed in organisation that will increase company output ability to deliver applications/features
+> Culture or practice followed in organisation that will increase company output ability to deliver applications/features
 
 orgnisations uses devops delivers new features and updates or delivers software agreed upon in shorter duration by following certain practices
 
@@ -7,7 +7,5 @@ orgnisations uses devops delivers new features and updates or delivers software 
 
 
 Why DevOps?
-
-
 How to introduce yourself for the position?
 What are your day-to-day activities as devops engineer?
