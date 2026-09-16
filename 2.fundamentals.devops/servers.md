@@ -17,6 +17,8 @@
    > A VM can be requested manually through a cloud provider's portal or created automatically using scripts and infrastructure-as-code.
    > The cloud provider selects a physical host with enough available CPU and memory, and its hypervisor creates the VM by allocating the requested resources.
    > The provider then returns connection details such as an IP address and a key pair.
+
+   
 6. Real-world example  
    > Imagine that AWS has many physical servers in its Mumbai data center. For this simplified example, each physical server has 100 GB of RAM and 100 CPU cores.
    >
