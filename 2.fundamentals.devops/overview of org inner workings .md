@@ -201,4 +201,5 @@ DevOps engineers are a key part of this process because they automate, provision
 
 For a DevOps engineer, the most important idea is this:
 
-You are not just managing servers or pipelines—you are part of a bigger delivery system that connects business requirements, development work, automation, testing, deployment, and operational reliability.
+You are not just managing servers or pipelines—you are part of a bigger delivery system that connects business requirements, development work, automation, testing, deployment, and operational reliability. 
+# here you will understand and  work which part of delivery sdlc in technical work can be automated and combined or pulled apart for improving efficiency
