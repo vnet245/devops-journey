@@ -203,3 +203,6 @@ For a DevOps engineer, the most important idea is this:
 
 You are not just managing servers or pipelines—you are part of a bigger delivery system that connects business requirements, development work, automation, testing, deployment, and operational reliability. 
 > # here you will understand and  work which part of delivery sdlc in technical work can be automated and combined or pulled apart for improving efficiency as a devops engineer
+
+
+[link to the video](https://www.youtube.com/watch?v=neG2MFVFji0&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=3)
