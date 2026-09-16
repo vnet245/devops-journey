@@ -13,7 +13,7 @@ Understanding this is important because:
 ---
 
 ## 2. Different roles in an organization
-
+![different roles oneliner explainer](GetImage.png)
 ### Customer
 - The customer gives feedback, ideas, and business needs.
 - Example: "We want groceries delivered in 15 minutes."
@@ -81,7 +81,7 @@ Understanding this is important because:
 ---
 
 ## 3. Requirement flow in a real organization
-
+![reuirement flow](<GetImage (1).png>)
 A simple requirement usually moves like this:
 
 Customer feedback
@@ -194,19 +194,6 @@ Customer → Business Analyst → Product Manager → Product Owner → Architec
 DevOps engineers are a key part of this process because they automate, provision, deploy, and support the systems that make software delivery possible.
 
 ---
-
-## 9. Visual summary from the screenshot
-
-The image shows a company-role diagram where:
-- Customer gives requirements
-- BA documents them in BRD
-- PM prioritizes them
-- PO turns them into epics or stories
-- Architect designs LLD/HLD
-- DevOps/QA/DBA/Developers work in the implementation phase
-- SRE handles post-release reliability
-
-This diagram clearly shows that requirements move through multiple roles before becoming a live product.
 
 ---
 
