@@ -23,17 +23,17 @@ This repository is my personal DevOps learning journey and progress tracker. It 
 ## DevOps learning roadmap
 ### 1st 25 days : 1-53 (53 videos) basic
 Understand DevOps fundamentals: what it is, why it matters, and its scope.
-Learn the SDLC to accelerate software delivery.
-Study Linux and basic shell scripting.
-Learn Git, VS Code, and GitHub, including AI-assisted tools.
-Learn Ansible configuration management.
-Terrraform basics only
-Containers learning topics:
-    Docker
-    Container networking
-    Volumes for persistent data
-    Images how to create and start
-    Docker Compose for managing multi-container applications
+ - Learn the SDLC to accelerate software delivery.
+ - Study Linux and basic shell scripting.
+ - Learn Git, VS Code, and GitHub, including AI-assisted tools.
+ - Learn Ansible configuration management.
+ - Terrraform basics only
+ - Containers learning topics:
+    * Docker
+    * Container networking
+    * Volumes for persistent data
+    * Images how to create and start
+    * Docker Compose for managing multi-container applications
 
 Kubernetes
     Architecture
