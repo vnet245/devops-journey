@@ -36,16 +36,16 @@ Understand DevOps fundamentals: what it is, why it matters, and its scope.
     * Docker Compose for managing multi-container applications
 
 Kubernetes
-    Architecture
-    Pods
-    Deployments, Services, and DaemonSets
-    ConfigMaps
-    Secrets
-    Custom Resource Definitions (CRDs)
-    Helm and Kustomize for managing Kubernetes configurations
- CI/CD
-    JENKINS/github actions
-    argo cd
+     - Architecture
+     - Pods
+     - Deployments, Services, and DaemonSets
+     - ConfigMaps
+     - Secrets
+     - Custom Resource Definitions (CRDs)
+     - Helm and Kustomize for managing Kubernetes configurations
+CI/CD
+     - JENKINS/github actions
+     - argo cd
 Advanced linux
 
 
